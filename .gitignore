@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+venv/
+embeddings/*.p
+*.p
+tfhub_models/*/*
+driver/
